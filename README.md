@@ -54,7 +54,7 @@ some thing of that sort i have reffred some of the top franchises the reference.
         
        'types':http://127.0.0.1:8000/pizza/types/
   
-  **From this url u can add toppins **
+  **From this url u can add toppins**
         
          "toppings": "http://127.0.0.1:8000/pizza/toppings/"
          
