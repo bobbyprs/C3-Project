@@ -39,7 +39,8 @@ some thing of that sort i have reffred some of the top franchises the reference.
    **For running the Project**
    
    Ones u have complected all the above steps u have to activate the virtual env u can install by refering to 
-   this link:https://www.javatpoint.com/django-virtual-environment-setup **Make shure you not running project with out activating vitual env**
+   this link:https://www.javatpoint.com/django-virtual-environment-setup  or else u can use the djangoenv folder      
+   **Make shure you not running project with out activating vitual env**
    
       python manage.py runserver
    
