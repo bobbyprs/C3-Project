@@ -63,5 +63,4 @@ some thing of that sort i have reffred some of the top franchises the reference.
           "pizza": "http://127.0.0.1:8000/pizza/pizza/",
   
   
-     
-   
+
