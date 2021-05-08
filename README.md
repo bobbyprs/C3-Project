@@ -61,6 +61,7 @@ some thing of that sort i have reffred some of the top franchises the reference.
    **This is urls for main objective create pizza for update delete press on link given bellow id**
    
           "pizza": "http://127.0.0.1:8000/pizza/pizza/",
-  
+  **for the filter i have also done the filter button which u ca seeon top right where get button is preasent i have added two fields for filtering
+  you can add more if want in the views.py**
   
 
