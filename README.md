@@ -58,7 +58,7 @@ some thing of that sort i have reffred some of the top franchises the reference.
         
          "toppings": "http://127.0.0.1:8000/pizza/toppings/"
          
-   **This is urls for main objective create pizza**
+   **This is urls for main objective create pizza for update delete press on link given bellow id**
    
           "pizza": "http://127.0.0.1:8000/pizza/pizza/",
   
